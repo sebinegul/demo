@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users":{
+  "firstName:"Sebi",
+  "middleName":"Negul",
+    "lastName":"KG"
+}
 }
