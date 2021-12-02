@@ -11,4 +11,8 @@
   "users": {
     "firstName": "Sebi"
   }
+  "salons":{
+  "salonId":"Sabc560001",
+  "salon":"Skin Glow Salon"
+}
 }
